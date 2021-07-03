@@ -1,0 +1,29 @@
+# Your bot token from https://discord.com/developers/
+token: "Your Bot Token"
+
+# The prefix from the bot
+prefix: "Your bot prefix"
+
+# Which role can start a giveaway
+giveaway_role: "Your giveaway_role"
+
+# Which text have the status from the bot
+bot_status_text: "Your bot status"
+
+# The activity from the bot "online, idle, dnd"
+bot_activity: "online"
+
+# True for yes and False for no
+help_command: True
+
+# True for yes and False for no
+time_command: True 
+
+# How many time to start a giveaway in secounds
+setup_timeout: 30.0
+
+# Which was the emoji to react
+react_emoji: "🎉"
+
+# True for yes and False for no 
+ping_winner_message: True
